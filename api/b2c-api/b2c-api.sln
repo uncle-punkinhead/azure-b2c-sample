@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2c-api", "b2c-api\b2c-api.csproj", "{FA304E63-AA3C-46D6-AAFB-26D50E9A0185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA304E63-AA3C-46D6-AAFB-26D50E9A0185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA304E63-AA3C-46D6-AAFB-26D50E9A0185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA304E63-AA3C-46D6-AAFB-26D50E9A0185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA304E63-AA3C-46D6-AAFB-26D50E9A0185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

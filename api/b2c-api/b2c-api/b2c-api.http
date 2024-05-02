@@ -1,0 +1,6 @@
+@b2c_api_HostAddress = http://localhost:8080
+
+GET {{b2c_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
